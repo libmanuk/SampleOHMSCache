@@ -7,7 +7,7 @@ The reference look like:
 
 tmpDir = /var/www/html/viewerfiles
 
-Note that this be set as either an internal or HTTP path.
+Note that this can be set as either an internal or HTTP path.
 
 Once the tmpDir path is set in your config.ini and these sample files are placed into the tmpDir, links to the sample interviews will look very similar to the following:
 
