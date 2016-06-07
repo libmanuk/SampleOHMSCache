@@ -1,5 +1,5 @@
 # SampleOHMSCache
-A set of sample cachefiles for use with the OHMS Viewer.
+A set of sample cachefiles along with a HTML splash page for use with the OHMS Viewer.
 
 After installing the OHMS Viewer, these cachefiles can be placed within the Viewer's tmpDir directory which must be specified in the Viewer's config.ini file.
 
