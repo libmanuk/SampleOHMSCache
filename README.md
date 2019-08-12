@@ -14,7 +14,10 @@ Once the tmpDir path is set in your config.ini and these sample files are placed
 http://www.myviewerexamplesite.edu/viewer/viewer.php?cachefile=OHMS-Sample-001.xml
 http://www.myviewerexamplesite.edu/viewer/viewer.php?cachefile=OHMS-Sample-002.xml
 http://www.myviewerexamplesite.edu/viewer/viewer.php?cachefile=OHMS-Sample-003.xml
-
+http://www.myviewerexamplesite.edu/viewer/viewer.php?cachefile=OHMS-Sample-004.xml
+http://www.myviewerexamplesite.edu/viewer/viewer.php?cachefile=OHMS-Sample-005.xml
+http://www.myviewerexamplesite.edu/viewer/viewer.php?cachefile=OHMS-Sample-006.xml
+http://www.myviewerexamplesite.edu/viewer/viewer.php?cachefile=OHMS-Sample-007.xml
 
 Download the OHMS Viewer: https://github.com/uklibraries/ohms-viewer
 
